@@ -26,11 +26,11 @@ Yazılımımız, sürekli geliştirilmekte ve yeni özellikler eklenmektedir. De
 
 ## Ekran Görüntüleri
 
-![Screenshot 1](https://raw.githubusercontent.com/ysfkarakaya/dijital-market-yazilimi/master/ss1.jpg)
-![Screenshot 2](https://raw.githubusercontent.com/ysfkarakaya/dijital-market-yazilimi/master/ss2.jpg)
-![Screenshot 3](https://raw.githubusercontent.com/ysfkarakaya/dijital-market-yazilimi/master/ss3.jpg)
-![Screenshot 4](https://raw.githubusercontent.com/ysfkarakaya/dijital-market-yazilimi/master/ss4.jpg)
-![Screenshot 5](https://raw.githubusercontent.com/ysfkarakaya/dijital-market-yazilimi/master/ss5.jpg)
-![Screenshot 6](https://raw.githubusercontent.com/ysfkarakaya/dijital-market-yazilimi/master/ss6.jpg)
-![Screenshot 7](https://raw.githubusercontent.com/ysfkarakaya/dijital-market-yazilimi/master/ss7.jpg)
-![Screenshot 8](https://raw.githubusercontent.com/ysfkarakaya/dijital-market-yazilimi/master/ss8.jpg)
+![Screenshot 1](https://raw.githubusercontent.com/ysfkarakaya/dijital-market-yazilimi/master/ss1.png)
+![Screenshot 2](https://raw.githubusercontent.com/ysfkarakaya/dijital-market-yazilimi/master/ss2.png)
+![Screenshot 3](https://raw.githubusercontent.com/ysfkarakaya/dijital-market-yazilimi/master/ss3.png)
+![Screenshot 4](https://raw.githubusercontent.com/ysfkarakaya/dijital-market-yazilimi/master/ss4.png)
+![Screenshot 5](https://raw.githubusercontent.com/ysfkarakaya/dijital-market-yazilimi/master/ss5.png)
+![Screenshot 6](https://raw.githubusercontent.com/ysfkarakaya/dijital-market-yazilimi/master/ss6.png)
+![Screenshot 7](https://raw.githubusercontent.com/ysfkarakaya/dijital-market-yazilimi/master/ss7.png)
+![Screenshot 8](https://raw.githubusercontent.com/ysfkarakaya/dijital-market-yazilimi/master/ss8.png)
